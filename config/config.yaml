@@ -1,0 +1,11 @@
+
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  zip_path: C:/Users/Maaz/Downloads/data.zip
+  unzip_path: artifacts/data_ingestion
+  raw_data: artifacts/data_ingestion/raw.csv
+  # clean_data: artifacts/data_ingestion/clean_data.csv
+
+
